@@ -1,0 +1,9 @@
+h2.sectionTitle.sectionTitle-cards {
+  font-size: 0;
+}
+
+h2.sectionTitle.sectionTitle-cards::after {
+  content: "Продължи гледането";
+  font-size: inherit
+  color: inherit;
+}
