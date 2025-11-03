@@ -1,8 +1,8 @@
 /* Jellyfish Blue Theme*/
 :root {
-    --primary-r: 173;
-    --primary-g: 235;
-    --primary-b: 179;
+    --primary-r: 255;
+    --primary-g: 183;
+    --primary-b: 206;
     --primary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 1.0);
     --secondary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.6);
     --primary-background-transparent: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.1);
