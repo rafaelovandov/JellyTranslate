@@ -1,3 +1,13 @@
-.headerButton.mainDrawerButton.barsMenuButton.headerButtonLeft {
+/* Скрива горните бутони и табове */
+.headerButton.mainDrawerButton.barsMenuButton.headerButtonLeft,
+.headerSyncButton.syncButton.headerButton.headerButtonRight,
+.headerCastButton.castButton.headerButton.headerButtonRight,
+.headerSearchButton.headerButton.headerButtonRight,
+.headerTabs.sectionTabs {
   display: none !important;
+}
+
+/* Прозрачен хедър */
+.skinHeader-withBackground {
+  background-color: transparent !important;
 }
